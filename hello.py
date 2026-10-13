@@ -3,23 +3,18 @@
 
 
 option = 1
-while option == 1: 
 
-    if(option == 5):
-        break
-    a = 4
-    b = 5
+a= 3
+b= 4    
     
-    
-    if(option == 1):
+if(option == 1):
         print(a + b," sum of two number")
-    elif option == 2:
+elif option == 2:
         print(a - b," substraction of two number")
-    elif option == 3:
+elif option == 3:
         print(a * b," Multplaction of two number")
-    elif option == 2:
-        print(a / b," Division of two number")
-    else:
-        break
+elif option == 2:
+    print(a / b," Division of two number")
+
     
 
