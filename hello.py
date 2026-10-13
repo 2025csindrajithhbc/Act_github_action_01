@@ -3,7 +3,7 @@
 
 
 option = 1
-while option != 5: 
+while option == 1: 
 
     if(option == 5):
         break
