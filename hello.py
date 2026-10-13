@@ -2,10 +2,9 @@
 #     print("2 x ",i," = ",2*i) 
 
 
-option = 0
+option = 1
 while option != 5: 
-    print("1.add 2.sub 3.mult 4.division 5.exit")
-    option = int(input("Enter your choice:"))
+
     if(option == 5):
         break
     a = float(input("Enter the 1st number :"))
