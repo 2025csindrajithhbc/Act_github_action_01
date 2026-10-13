@@ -7,8 +7,8 @@ while option != 5:
 
     if(option == 5):
         break
-    a = float(input("Enter the 1st number :"))
-    b = float(input("Enter the 2st number :"))
+    a = 4
+    b = 5
     
     if(option == 1):
         print(a + b," sum of two number")
